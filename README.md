@@ -14,7 +14,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 <p>
 <a href="https://www.facebook.com/bahi.official/"><img
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/bahi-sec/"><img
+<a href="https://www.linkedin.com/in/bahihegazi/"><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </p>
 
